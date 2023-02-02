@@ -1,2 +1,2 @@
-# weather_api_py
+# Weather API
 Created my own API that sends data to different endpoints.
