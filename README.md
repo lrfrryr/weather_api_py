@@ -1,5 +1,5 @@
 # Weather API
-Created my own API that sends data to different endpoints.
+Created my own API that sends data to different endpoints that can be viewed through a Flask site.
 
 
-<img src="weather_forecast.gif"/>
+<img src="weather_api.gif"/>
